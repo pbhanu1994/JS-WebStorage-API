@@ -1,0 +1,16 @@
+body{
+	background-color: cyan;
+}
+#userpass{
+	float: left;
+	border: 3px solid black;
+	padding: 20px;
+	width: 180px;
+	
+}
+#userpass2{
+	float: left;
+	margin-left: 20px;
+	border: 3px solid red;
+	padding: 20px;
+}
